@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearningBasic", "LearningBasic\LearningBasic.vcxproj", "{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Debug|x64.ActiveCfg = Debug|x64
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Debug|x64.Build.0 = Debug|x64
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Debug|x86.Build.0 = Debug|Win32
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Release|x64.ActiveCfg = Release|x64
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Release|x64.Build.0 = Release|x64
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Release|x86.ActiveCfg = Release|Win32
+		{65CEC57C-E809-4136-AE97-6A99A4EB1EBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4254ACDD-0E7B-4E19-95CD-4DAAC8756243}
+	EndGlobalSection
+EndGlobal
